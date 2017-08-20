@@ -8,8 +8,7 @@ I swear to fulfill, to the best of my ability and judgment, this covenant:
 
 * I will remember that there is art to IT as well as science, and that warmth, sympathy, and understanding may outweigh the most bleeding edge technical solution.
 
-* I will not be ashamed to say "I know not," nor will I fail to call in my colleagues when the skills of another are needed for a users' or customers' benef
-it.
+* I will not be ashamed to say "I know not," nor will I fail to call in my colleagues when the skills of another are needed for a users' or customers' benefit.
 
 * I will respect the privacy of my users and customers, for their problems are not disclosed to me that the world may know. Most especially must I tread with care in matters of security. If it is given me to enhance a life, all thanks. But it may also be within my power to make a life worse; this awesome responsibility must be faced with great humbleness and awareness of my own frailty. Above all, I must not play at God.
 
